@@ -1,1 +1,30 @@
 /*Inici css*/
+.linea{
+	display: inline;
+	margin: 3%;
+}
+.CAzul{
+	background-color: #00a694;
+}
+.LetraWhite{
+	color: white;
+}
+.Fondo{
+	background-image: url("../img-index/bici_1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 20%;
+	opacity: rgba(0,0,0,5);
+}
+.tama{
+	width: 15%;
+}
+.input{
+	width: 100%;
+}
+.mg-top28{
+	margin-top: -26%;
+}
+.mg-top{
+	margin-top: 33%;
+}
