@@ -1,12 +1,36 @@
 *{
 	font-family: Architects Daughter;
-	font-weight: bold;
 	font-size: 1em;
+}
+body{
+	background-image: url(../img/fondo.jpg);
+	background-repeat: repeat;
 }
 h2{
 	font-size: 1em;
+	font-weight: bold;
 }
 .organizadores{
 	width: 330px;
 	height: 220px;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+}
+.inter{
+	margin-top: 2.5em;
+}
+.margen{
+	margin-top: 1em;
+}
+.opacidad{
+	width: 100%;
+	height: 100%;
+	background: rgba(255, 255, 255, 0.9);
+}
+.cajaimg{
+	width: 380px;
+	height: 220px;
+}
+.pad-5{
+	padding: 5%;
 }
