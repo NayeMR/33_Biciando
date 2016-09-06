@@ -13,8 +13,7 @@
 	background-image: url("../img-index/bici_1.jpg");
 	background-repeat: no-repeat;
 	background-size: 100%;
-	padding: 20%;
-	opacity: rgba(0,0,0,5);
+	padding: 18%;
 }
 .tama{
 	width: 15%;
@@ -23,8 +22,13 @@
 	width: 100%;
 }
 .mg-top28{
-	margin-top: -26%;
+	margin-top: -16%;
 }
 .mg-top{
 	margin-top: 33%;
 }
+*{
+	font-family: 'Architects Daughter';
+	font-size: 1em;
+}
+
