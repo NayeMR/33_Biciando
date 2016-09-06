@@ -43,7 +43,8 @@
 }
 
 .botones{
-    width: 18%;
+    width: 13%;
+    margin: 2%;
 }
 
 .marg{
@@ -154,3 +155,11 @@
 }
 
 .btn{ border-radius: 50%; width:32px; height:32px; line-height:18px;  }
+.titulo{
+    font-size: 3em;
+    color: #DF3A01;
+}
+.infu{
+    font-size: 2em;
+    font-weight: bold;
+}
