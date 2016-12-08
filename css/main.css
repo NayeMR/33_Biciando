@@ -1,19 +1,25 @@
 /*Inici css*/
+*{
+	font-family: 'Architects Daughter';
+	font-size: 22px;
+}
+a{
+	text-decoration: none;
+}
 .linea{
 	display: inline;
-	margin: 6%;
 }
 .CAzul{
-	background-color: #00a694;
+	background-color: #20B2AA;
 }
 .LetraWhite{
 	color: white;
 }
-.Fondo{
-	background-image: url("../img-index/bici_1.jpg");
-	background-repeat: no-repeat;
-	background-size: 100%;
-	padding: 18%;
+body{
+	background-image: url(../img/biciandoo.jpg);
+	background-size: 100% 100%;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
 }
 .tama{
 	width: 15%;
@@ -24,11 +30,23 @@
 .mg-top28{
 	margin-top: -16%;
 }
+.mg-form{
+	margin-top: 2%;
+}
 .mg-top{
 	margin-top: 33%;
 }
-*{
-	font-family: 'Architects Daughter';
-	font-size: 1em;
+.mg-bottom{
+	margin-bottom: 5%;
 }
-
+.mediano{
+	height: 5%;
+	width: 5%;
+}
+.opacity{
+	background: black;
+	opacity: 0.8;
+	border-radius: 20%;
+	padding: 10%;
+	margin-top: 3%;
+}
